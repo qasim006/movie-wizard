@@ -8,9 +8,9 @@ To use the app, simply open the `index.html` file in a web browser. Enter the na
 
 ## Screenshots
 
-Here are some screenshots of the Movie Wizard app:
+Here is a screenshot of the Movie Wizard app:
 
-![Movie Wizard Screenshot 1](./screenshots/movie-wizard-1.png)
+![Movie Wizard Screenshot 1](https://raw.githubusercontent.com/qasim006/movie-wizard/main/Movie%20Wizard%20Screenshot.png)
 
 ## How it works
 
